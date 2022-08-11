@@ -1,10 +1,13 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=-+%F0%9F%91%8B+Hi%2C+I%E2%80%99m+%40airatmeister;-+%F0%9F%91%80+I%E2%80%99m+interested+in+...;-+%F0%9F%8C%B1+I%E2%80%99m+currently+learning+...;-+%F0%9F%92%9E%EF%B8%8F+I%E2%80%99m+looking+to+collaborate+on+...;-+%F0%9F%93%AB+How+to+reach+me+...)](https://git.io/typing-svg)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=airatmeister)
+<!---
 - 👋 Hi, I’m @airatmeister
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-<!---
 airatmeister/airatmeister is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
